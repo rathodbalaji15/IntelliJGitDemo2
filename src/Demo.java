@@ -6,5 +6,6 @@ public class Demo {
         System.out.println("fourth line for commit");
         System.out.println("hi, How are you all");
         System.out.println("for branch testing");
+        System.out.println("code for  branch Merging");
     }
 }
